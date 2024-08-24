@@ -1,0 +1,80 @@
+.header{
+    background-color:  black;
+    height: 55px;
+    width: 2000px;
+    color: white;
+    padding: 20px;
+}
+.btn{
+   
+}
+
+.button{
+
+}
+.btn-success{
+    height: 30px;
+    width: 70px;
+    background-color: greenyellow;
+    color:black;
+    margin-left: 1800px;
+  
+}
+
+.center2{
+    text-align: center;
+    color: purple;
+    }
+
+    .text{
+        color: rgb(211, 86, 107);
+        text-align: center;
+        display: flex;
+        margin-left: 806px;
+    }
+    .color{
+     color: black;
+    
+    }
+    .B2{
+        text-align:center ;
+    }
+    .B3{
+        text-align:center ;
+
+    }
+.c1{
+    text-align: center;
+}
+.c2{
+ text-align: center;
+}
+.c3{
+    text-align: center;
+}
+.img{
+    border-radius: 50px;
+    height: 10pc;
+    width: 20pc;
+}
+.pic2{
+    border-radius: 50px;
+    height: 10pc;
+    width: 20pc;
+}
+
+.center3{
+    display: flex;
+}
+.pic3{
+    border-radius: 50px;
+    height: 10pc;
+    width: 20pc;
+   box-shadow: 20px;
+}
+.images{
+    text-align: center;
+}
+.images2{
+    text-align: center;
+}
